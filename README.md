@@ -1,4 +1,4 @@
-# 👩‍🔬 Aubry Raphaelle – Étudiante en Bioinformatique (Université de Montréal)
+# 👩‍🔬 Aubry Raphaelle Kamdem Domguia – Étudiante en Bioinformatique (Université de Montréal)
 
 Bienvenue sur mon portfolio de projets en **bioinformatique et intelligence artificielle appliquée à la santé**.
 
