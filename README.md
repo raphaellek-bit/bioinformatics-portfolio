@@ -19,14 +19,10 @@ Développer des pipelines d’analyse de données biologiques (FASTQ → VCF →
 | 🤖 **IA Santé – Prédiction de maladies** | Mini-projet de machine learning sur données médicales | Pandas, Scikit-learn, TensorFlow |
 
 ## 🧠 Compétences techniques
-Python • Linux • FastQC • VEP • IGV • Pandas • Scikit-learn • TensorFlow • Git
+Python • Linux • FastQC • VEP • IGV • Pandas • Scikit-learn • TensorFlow • 
 
-## 📚 Formations suivies
-- *Bioinformatics for Beginners* – UC San Diego (Coursera)  
-- *Introduction to Data Science in Python* – Univ. of Michigan (Coursera)  
-- *AI for Medicine* – DeepLearning.AI  
 
 ## 📫 Me contacter
 📍 Montréal, QC  
-✉️ [toncourriel@umontreal.ca](mailto:toncourriel@umontreal.ca)  
-🔗 [LinkedIn (à venir)]()  
+✉️ [aubry.raphaelle.kamdem.domguia@umontreal.ca](mailto:aubry.raphaelle.kamdem.domguia@umontreal.ca)  
+
